@@ -1,0 +1,24 @@
+ZOTERO LIASCRIPT COURSE — UPLOAD USING TERMINAL
+
+1. Download Zotero_LiaScript_GitHub_Ready.zip to your Downloads folder.
+2. Open Terminal and run:
+
+   cd ~/Downloads
+   unzip -o Zotero_LiaScript_GitHub_Ready.zip -d Zotero-Student-Training
+   cd Zotero-Student-Training
+   git init
+   git add .
+   git commit -m "Add Zotero LiaScript training course with images"
+   git branch -M main
+   git remote add origin https://github.com/YOUR_USERNAME/Zotero-Student-Training.git
+   git push -u origin main
+
+FIRST create an EMPTY public repository named Zotero-Student-Training
+in your GitHub account (do not initialize it with a README). Replace
+YOUR_USERNAME with your GitHub username in the remote URL.
+
+Images work when README.md and images/ are uploaded together.
+View course in LiaScript:
+https://liascript.github.io/course/?https://raw.githubusercontent.com/YOUR_USERNAME/Zotero-Student-Training/main/README.md
+
+Optional: Double-click Zotero_Visual_Training_Offline.html for an offline picture-rich view.
