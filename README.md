@@ -1,6 +1,6 @@
 <!--
 author: ITVET Academic Skills Training
-version: 1.0
+version: 1.1
 language: en
 narrator: US English Female
 comment: Visual, hands-on Zotero training for university students. Includes illustrated explanations and hands-on classroom demonstrations; no quizzes.
@@ -8,11 +8,13 @@ comment: Visual, hands-on Zotero training for university students. Includes illu
 
 # Zotero for Academic Research
 
-### Visual Student Training · Beginner to Advanced
+## Visual Student Training · Beginner to Advanced
 
-> **Pictures:** This LiaScript lesson uses the **43 PNG images** in its accompanying `images/` folder. To show them, keep `README.md` and `images/` together. When publishing on GitHub, upload **both** to the repository root; uploading only the `.md` file will not show the pictures. For an immediate offline visual view, open `Zotero_Visual_Training_Offline.html` included in the package.
+[Open the live LiaScript course](https://liascript.github.io/course/?https://github.com/Masub27/Zotero-Student-Training/README.md)
 
-![From collecting research to writing and citing](./images/36_research_workflow.png)
+> **Pictures:** The 43 illustrated guides and screenshots load directly from the public GitHub repository. The images folder is also included for offline reuse.
+
+![From collecting research to writing and citing](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/36_research_workflow.png)
 
 > **Format:** Hands-on LiaScript course · **Suggested time:** 2.5–3 hours · **Level:** University students · **Requirements:** Zotero, Chrome with Zotero Connector, and optionally Microsoft Word.
 
@@ -32,9 +34,9 @@ Welcome! In this training you will build a research library, collect publication
 
 ---
 
-## 1. Getting Started and Setup
+# 1. Getting Started and Setup
 
-### 1.1 What is Zotero?
+# 1.1 What is Zotero?
 
 **Zotero is a reference manager**, not a search engine and not an automatic thesis writer. It records academic sources and helps you organize, read, annotate and cite them. It can store PDFs when you have access to those files.
 
@@ -47,9 +49,9 @@ Welcome! In this training you will build a research library, collect publication
 | Write references | Word Zotero Add-in |
 | Collaborate | Group Libraries |
 
-### Install Zotero + Connector
+# Install Zotero + Connector
 
-![Install Zotero + Connector — illustrated Zotero workflow](./images/01_install.png)
+![Install Zotero + Connector — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/01_install.png)
 
 **Try this procedure:**
 
@@ -66,9 +68,9 @@ Welcome! In this training you will build a research library, collect publication
 
 **Classroom task:** find the Zotero app and browser Connector. Explain which one captures browser records and which one manages them.
 
-### Accounts and Library Sync
+# Accounts and Library Sync
 
-![Accounts and Library Sync — illustrated Zotero workflow](./images/02_account.png)
+![Accounts and Library Sync — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/02_account.png)
 
 **Try this procedure:**
 
@@ -82,21 +84,21 @@ Using Zotero offline does **not** require an account. Sign in when you want to s
 
 ---
 
-## 2. Navigating Zotero
+# 2. Navigating Zotero
 
-### 2.1 Real Zotero interface
+# 2.1 Real Zotero interface
 
-![Actual Zotero main interface](./images/real_full_interface.png)
+![Actual Zotero main interface](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/real_full_interface.png)
 
 The screenshot above is from an installed Zotero application. The **left** side contains the library and collections; the **middle** lists references; the **right** displays details for the selected item.
 
-![Actual Zotero panes](./images/real_panels.png)
+![Actual Zotero panes](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/real_panels.png)
 
 **Instructor demonstration:** select a collection, select a paper, and switch between the Info, Notes and Tags options for that paper.
 
-### Three-Panel Zotero Interface
+# Three-Panel Zotero Interface
 
-![Three-Panel Zotero Interface — illustrated Zotero workflow](./images/03_interface.png)
+![Three-Panel Zotero Interface — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/03_interface.png)
 
 **Try this procedure:**
 
@@ -108,17 +110,17 @@ The Zotero window is divided into three important sections: **Library/collection
 
 **Classroom task:** select one item and describe where its title, tags, and attached PDF appear.
 
-### 2.2 Find the real toolbar
+# 2.2 Find the real toolbar
 
-![Actual Zotero toolbar](./images/real_toolbar.png)
+![Actual Zotero toolbar](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/real_toolbar.png)
 
-![Toolbar guide](./images/real_toolbar_labels.png)
+![Toolbar guide](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/real_toolbar_labels.png)
 
 The toolbar in an actual installation may show some actions under menu buttons; labels and placement vary by version.
 
-### Main Zotero Toolbar
+# Main Zotero Toolbar
 
-![Main Zotero Toolbar — illustrated Zotero workflow](./images/04_toolbar.png)
+![Main Zotero Toolbar — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/04_toolbar.png)
 
 **Try this procedure:**
 
@@ -141,17 +143,17 @@ Tool names and icon arrangements can vary slightly by Zotero version. Learn the 
 
 ---
 
-## 3. Build Your Research Library
+# 3. Build Your Research Library
 
-### 3.1 Example: real collection structure
+# 3.1 Example: real collection structure
 
-![Real research collections in Zotero](./images/real_collections.png)
+![Real research collections in Zotero](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/real_collections.png)
 
 For practice you may use **any subject**. The screenshot shows a sustainability/curriculum research structure; you can replace these folders with your own thesis or assignment themes.
 
-### Collections and Subcollections
+# Collections and Subcollections
 
-![Collections and Subcollections — illustrated Zotero workflow](./images/05_collections.png)
+![Collections and Subcollections — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/05_collections.png)
 
 **Try this procedure:**
 
@@ -163,9 +165,9 @@ Collections organize references, not copies of files. **My Library** contains yo
 
 **Practice:** create `Research Project` → `Background`, `Methods`, `Results`. Add one paper to two collections. Check it is still only one library item.
 
-### Tags and Color Labels
+# Tags and Color Labels
 
-![Tags and Color Labels — illustrated Zotero workflow](./images/14_tags.png)
+![Tags and Color Labels — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/14_tags.png)
 
 **Try this procedure:**
 
@@ -177,9 +179,9 @@ Use tags to represent **cross-cutting themes**, while collections represent proj
 
 **Practice:** add `Read` and `Method-Qualitative` to a source and locate it with the tag selector.
 
-### Sort Items and Use Related
+# Sort Items and Use Related
 
-![Sort Items and Use Related — illustrated Zotero workflow](./images/17_sorting.png)
+![Sort Items and Use Related — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/17_sorting.png)
 
 **Try this procedure:**
 
@@ -191,9 +193,9 @@ Sort from item-list column headings; visible columns depend on your layout. The 
 
 **Practice:** sort by creator or date, then link two conceptually related papers.
 
-### Related Items and Cross-Links
+# Related Items and Cross-Links
 
-![Related Items and Cross-Links — illustrated Zotero workflow](./images/23_related.png)
+![Related Items and Cross-Links — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/23_related.png)
 
 **Try this procedure:**
 
@@ -205,7 +207,7 @@ Use **Related Items** for *connections*, not merely for belonging to the same to
 
 **Practice:** connect two papers and write one sentence explaining their relationship in a note.
 
-#### Practice 1 — Library structure (10 minutes)
+# Practice 1 — Library structure (10 minutes)
 
 - [ ] Create one main collection named `Research Training`.
 - [ ] Add subcollections named `Background`, `Methods`, and `Key Findings`.
@@ -214,11 +216,11 @@ Use **Related Items** for *connections*, not merely for belonging to the same to
 
 ---
 
-## 4. Collect Papers from Chrome and Your Laptop
+# 4. Collect Papers from Chrome and Your Laptop
 
-### Save a Single Article from Chrome
+# Save a Single Article from Chrome
 
-![Save a Single Article from Chrome — illustrated Zotero workflow](./images/06_browser_save.png)
+![Save a Single Article from Chrome — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/06_browser_save.png)
 
 **Try this procedure:**
 
@@ -230,9 +232,9 @@ Best practice: open the **article's actual publisher/database record page** befo
 
 **Practice:** search Google Scholar for *education for sustainable development university curriculum*, open a relevant article page, then click the Connector.
 
-### Save Multiple Search Results
+# Save Multiple Search Results
 
-![Save Multiple Search Results — illustrated Zotero workflow](./images/07_multi_save.png)
+![Save Multiple Search Results — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/07_multi_save.png)
 
 **Try this procedure:**
 
@@ -244,9 +246,9 @@ On supported search-results pages, the Connector often shows a **folder icon**. 
 
 **Practice:** select two relevant items and verify they appear in the chosen Zotero collection.
 
-### Add by DOI, ISBN or PMID
+# Add by DOI, ISBN or PMID
 
-![Add by DOI, ISBN or PMID — illustrated Zotero workflow](./images/08_identifiers.png)
+![Add by DOI, ISBN or PMID — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/08_identifiers.png)
 
 **Try this procedure:**
 
@@ -258,9 +260,9 @@ A **DOI** points to a publication record; it is not a full PDF. It often provide
 
 **Practice:** locate the DOI on a journal article page and add it by identifier; compare the imported metadata against the publisher page.
 
-### Add an Item Manually
+# Add an Item Manually
 
-![Add an Item Manually — illustrated Zotero workflow](./images/09_manual_item.png)
+![Add an Item Manually — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/09_manual_item.png)
 
 **Try this procedure:**
 
@@ -272,9 +274,9 @@ Manual entry is useful for unpublished reports, course materials or records that
 
 **Practice:** create an example *Report* record with a hypothetical title, institution and year. Do not mix hypothetical records into your real thesis collection without marking them.
 
-### Import a PDF
+# Import a PDF
 
-![Import a PDF — illustrated Zotero workflow](./images/10_import_pdf.png)
+![Import a PDF — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/10_import_pdf.png)
 
 **Try this procedure:**
 
@@ -286,9 +288,9 @@ When you drag in a PDF, Zotero may automatically recognize the paper. If it rema
 
 **Practice:** import one legally obtained PDF and check whether author and year are present.
 
-### PDF Attachments and Links
+# PDF Attachments and Links
 
-![PDF Attachments and Links — illustrated Zotero workflow](./images/11_attachments.png)
+![PDF Attachments and Links — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/11_attachments.png)
 
 **Try this procedure:**
 
@@ -300,9 +302,9 @@ A paper in Zotero can contain multiple children: a stored PDF, supplementary fil
 
 **Practice:** expand one item and count its attachments.
 
-### Understand Item Types
+# Understand Item Types
 
-![Understand Item Types — illustrated Zotero workflow](./images/13_item_types.png)
+![Understand Item Types — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/13_item_types.png)
 
 **Try this procedure:**
 
@@ -314,9 +316,9 @@ Citation formatting relies on correct **item type** and fields. A journal articl
 
 **Practice:** identify whether two different sources are journal articles, reports or web pages.
 
-### Check Source Metadata
+# Check Source Metadata
 
-![Check Source Metadata — illustrated Zotero workflow](./images/12_metadata.png)
+![Check Source Metadata — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/12_metadata.png)
 
 **Try this procedure:**
 
@@ -328,7 +330,7 @@ Do not trust imported data automatically. Common issues include author fields sa
 
 **Practice:** correct one missing or inconsistent field in a practice record.
 
-#### Practice 2 — Capture and inspect (15 minutes)
+# Practice 2 — Capture and inspect (15 minutes)
 
 - [ ] Use Google Scholar or a library database to locate three relevant papers.
 - [ ] Save at least two with Zotero Connector.
@@ -338,11 +340,11 @@ Do not trust imported data automatically. Common issues include author fields sa
 
 ---
 
-## 5. Find, Filter and Clean Your Sources
+# 5. Find, Filter and Clean Your Sources
 
-### Quick Search
+# Quick Search
 
-![Quick Search — illustrated Zotero workflow](./images/15_quick_search.png)
+![Quick Search — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/15_quick_search.png)
 
 **Try this procedure:**
 
@@ -354,9 +356,9 @@ Quick Search helps you find known references. Depending on the mode selected, it
 
 **Practice:** type a distinctive term from the title of an imported paper and open the matching record.
 
-### Advanced Search and Saved Search
+# Advanced Search and Saved Search
 
-![Advanced Search and Saved Search — illustrated Zotero workflow](./images/16_advanced_search.png)
+![Advanced Search and Saved Search — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/16_advanced_search.png)
 
 **Try this procedure:**
 
@@ -368,9 +370,9 @@ Advanced Search allows combinations such as `tag contains AI` **AND** `date is a
 
 **Practice:** create one saved search for items tagged `To Read`. Add a matching tag to another item and see whether the saved-search list changes.
 
-### Find and Merge Duplicates
+# Find and Merge Duplicates
 
-![Find and Merge Duplicates — illustrated Zotero workflow](./images/18_duplicates.png)
+![Find and Merge Duplicates — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/18_duplicates.png)
 
 **Try this procedure:**
 
@@ -384,11 +386,11 @@ Duplicates can appear when the same article is saved from a database and later a
 
 ---
 
-## 6. Read and Annotate Academic PDFs
+# 6. Read and Annotate Academic PDFs
 
-### Open the Built-in PDF Reader
+# Open the Built-in PDF Reader
 
-![Open the Built-in PDF Reader — illustrated Zotero workflow](./images/19_pdf_reader.png)
+![Open the Built-in PDF Reader — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/19_pdf_reader.png)
 
 **Try this procedure:**
 
@@ -400,9 +402,9 @@ The integrated PDF reader supports selecting text, highlighting, annotation navi
 
 **Practice:** open a PDF, find a research-method term with search, and navigate to that page.
 
-### Highlight, Underline and Colors
+# Highlight, Underline and Colors
 
-![Highlight, Underline and Colors — illustrated Zotero workflow](./images/20_highlight.png)
+![Highlight, Underline and Colors — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/20_highlight.png)
 
 **Try this procedure:**
 
@@ -421,9 +423,9 @@ A highlight is useful when accompanied by a **reason** or comment. Avoid highlig
 
 **Practice:** annotate one definition, one method, one finding and one limitation.
 
-### Area Annotation and PDF Notes
+# Area Annotation and PDF Notes
 
-![Area Annotation and PDF Notes — illustrated Zotero workflow](./images/21_area_notes.png)
+![Area Annotation and PDF Notes — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/21_area_notes.png)
 
 **Try this procedure:**
 
@@ -435,9 +437,9 @@ Text selections, underlines, notes and area annotations can be converted or link
 
 **Practice:** create a note from at least two PDF annotations and click a linked quotation to return to the source.
 
-### Create Structured Research Notes
+# Create Structured Research Notes
 
-![Create Structured Research Notes — illustrated Zotero workflow](./images/22_notes.png)
+![Create Structured Research Notes — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/22_notes.png)
 
 **Try this procedure:**
 
@@ -457,7 +459,7 @@ Suggested note template:
 
 **Practice:** write an 80–120 word analytical note and link it to its source.
 
-#### Practice 3 — PDF analysis (15 minutes)
+# Practice 3 — PDF analysis (15 minutes)
 
 - [ ] Open a PDF in Zotero.
 - [ ] Highlight one **definition**, one **method**, one **finding**, and one **limitation**.
@@ -466,11 +468,11 @@ Suggested note template:
 
 ---
 
-## 7. Cite Correctly in Microsoft Word
+# 7. Cite Correctly in Microsoft Word
 
-### Zotero Tab in Microsoft Word
+# Zotero Tab in Microsoft Word
 
-![Zotero Tab in Microsoft Word — illustrated Zotero workflow](./images/24_word_setup.png)
+![Zotero Tab in Microsoft Word — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/24_word_setup.png)
 
 **Try this procedure:**
 
@@ -482,9 +484,9 @@ The Word add-in usually installs with Zotero. If Word lacks a Zotero tab, inspec
 
 **Practice:** locate the Zotero tab and name the icons Add/Edit Citation, Add/Edit Bibliography, Document Preferences and Refresh.
 
-### Add/Edit Citation
+# Add/Edit Citation
 
-![Add/Edit Citation — illustrated Zotero workflow](./images/25_word_citation.png)
+![Add/Edit Citation — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/25_word_citation.png)
 
 **Try this procedure:**
 
@@ -496,9 +498,9 @@ The Word add-in usually installs with Zotero. If Word lacks a Zotero tab, inspec
 
 **Practice:** cite a real paper you saved, without manually typing its author and year.
 
-### Page Numbers and Multiple Sources
+# Page Numbers and Multiple Sources
 
-![Page Numbers and Multiple Sources — illustrated Zotero workflow](./images/26_page_numbers.png)
+![Page Numbers and Multiple Sources — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/26_page_numbers.png)
 
 **Try this procedure:**
 
@@ -510,9 +512,9 @@ For an exact quotation or page-specific claim, use the citation's page locator f
 
 **Practice:** insert a page-specific citation from a real page of a PDF. Use two sources in one citation for a comparative claim.
 
-### Create Automatic Bibliography
+# Create Automatic Bibliography
 
-![Create Automatic Bibliography — illustrated Zotero workflow](./images/27_bibliography.png)
+![Create Automatic Bibliography — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/27_bibliography.png)
 
 **Try this procedure:**
 
@@ -524,9 +526,9 @@ The Word bibliography is generated from the sources **cited in that document**, 
 
 **Practice:** cite two different papers, then create an automatically generated References section.
 
-### Change Citation Style
+# Change Citation Style
 
-![Change Citation Style — illustrated Zotero workflow](./images/28_document_preferences.png)
+![Change Citation Style — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/28_document_preferences.png)
 
 **Try this procedure:**
 
@@ -538,9 +540,9 @@ The course uses **APA 7 as an example only**. Use the style required by your dep
 
 **Practice:** switch your practice Word document from APA 7 to another style and back, and observe how the output changes.
 
-### Refresh Citations
+# Refresh Citations
 
-![Refresh Citations — illustrated Zotero workflow](./images/29_refresh.png)
+![Refresh Citations — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/29_refresh.png)
 
 **Try this procedure:**
 
@@ -552,9 +554,9 @@ The course uses **APA 7 as an example only**. Use the style required by your dep
 
 **Practice:** correct a test item's publication year in Zotero and use Refresh in your Word practice document.
 
-### Unlink Citations Safely
+# Unlink Citations Safely
 
-![Unlink Citations Safely — illustrated Zotero workflow](./images/30_unlink.png)
+![Unlink Citations Safely — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/30_unlink.png)
 
 **Try this procedure:**
 
@@ -566,9 +568,9 @@ The course uses **APA 7 as an example only**. Use the style required by your dep
 
 **Practice:** explain the risk; do not actually unlink your working thesis.
 
-### Quick Copy and Standalone Bibliography
+# Quick Copy and Standalone Bibliography
 
-![Quick Copy and Standalone Bibliography — illustrated Zotero workflow](./images/31_quick_copy.png)
+![Quick Copy and Standalone Bibliography — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/31_quick_copy.png)
 
 **Try this procedure:**
 
@@ -580,7 +582,7 @@ Use Quick Copy for an email or single-page handout when Word integration is not 
 
 **Practice:** copy a reference list for two selected items to a temporary text file.
 
-#### Practice 4 — Write a short academic paragraph (20 minutes)
+# Practice 4 — Write a short academic paragraph (20 minutes)
 
 1. Open a new Microsoft Word document.
 2. Write a 100–150 word paragraph about a research topic.
@@ -593,11 +595,11 @@ Use Quick Copy for an email or single-page handout when Word integration is not 
 
 ---
 
-## 8. Share, Synchronize and Discover
+# 8. Share, Synchronize and Discover
 
-### Export and Import References
+# Export and Import References
 
-![Export and Import References — illustrated Zotero workflow](./images/32_export.png)
+![Export and Import References — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/32_export.png)
 
 **Try this procedure:**
 
@@ -609,9 +611,9 @@ Common exchange formats: **RIS** (reference managers), **BibTeX** (LaTeX workflo
 
 **Practice:** export a small practice collection as RIS. Keep original items untouched.
 
-### Collaborative Group Libraries
+# Collaborative Group Libraries
 
-![Collaborative Group Libraries — illustrated Zotero workflow](./images/33_groups.png)
+![Collaborative Group Libraries — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/33_groups.png)
 
 **Try this procedure:**
 
@@ -623,9 +625,9 @@ A **group library** is for collaborative bibliography-building. Membership and e
 
 **Practice:** in a hypothetical team of three, decide who can add, edit and review the group bibliography.
 
-### RSS Feeds for New Research
+# RSS Feeds for New Research
 
-![RSS Feeds for New Research — illustrated Zotero workflow](./images/34_rss.png)
+![RSS Feeds for New Research — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/34_rss.png)
 
 **Try this procedure:**
 
@@ -637,9 +639,9 @@ RSS lets you monitor *new* publications without repeating the same search every 
 
 **Practice:** locate an RSS/Atom feed on a research journal's website and describe how Zotero can subscribe to it.
 
-### Backups and Data Safety
+# Backups and Data Safety
 
-![Backups and Data Safety — illustrated Zotero workflow](./images/37_backup.png)
+![Backups and Data Safety — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/37_backup.png)
 
 **Try this procedure:**
 
@@ -653,11 +655,11 @@ Sync is **not a complete substitute for an independent backup**. Follow Zotero's
 
 ---
 
-## 9. Advanced Features and Troubleshooting
+# 9. Advanced Features and Troubleshooting
 
-### Plugins and Optional AI
+# Plugins and Optional AI
 
-![Plugins and Optional AI — illustrated Zotero workflow](./images/35_plugins.png)
+![Plugins and Optional AI — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/35_plugins.png)
 
 **Try this procedure:**
 
@@ -669,9 +671,9 @@ Zotero is **not itself a generative AI assistant**. Third-party plugins can add 
 
 **Practice:** distinguish core Zotero functionality from what requires an external plugin.
 
-### Common Troubleshooting Steps
+# Common Troubleshooting Steps
 
-![Common Troubleshooting Steps — illustrated Zotero workflow](./images/38_troubleshoot.png)
+![Common Troubleshooting Steps — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/38_troubleshoot.png)
 
 **Try this procedure:**
 
@@ -685,11 +687,11 @@ Check the official [Zotero Support](https://www.zotero.org/support/) and [Zotero
 
 ---
 
-## 10. Capstone — Complete a Small Literature Review Workflow
+# 10. Capstone — Complete a Small Literature Review Workflow
 
-### A Complete Literature-Review Workflow
+# A Complete Literature-Review Workflow
 
-![A Complete Literature-Review Workflow — illustrated Zotero workflow](./images/36_research_workflow.png)
+![A Complete Literature-Review Workflow — illustrated Zotero workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/36_research_workflow.png)
 
 **Try this procedure:**
 
@@ -701,7 +703,7 @@ Check the official [Zotero Support](https://www.zotero.org/support/) and [Zotero
 
 **Practice:** follow the complete workflow demonstrated below.
 
-### Final practical demonstration (20–30 minutes)
+# Final practical demonstration (20–30 minutes)
 
 The instructor demonstrates the complete workflow, then students repeat it on their laptops using **three real academic publications**:
 
@@ -718,7 +720,7 @@ The instructor demonstrates the complete workflow, then students repeat it on th
 
 ---
 
-## 11. Teacher Delivery Guide
+# 11. Teacher Delivery Guide
 
 | Segment | Time | Demonstration |
 |---|---:|---|
@@ -734,7 +736,7 @@ The instructor demonstrates the complete workflow, then students repeat it on th
 
 **If teaching a 90-minute class:** cover Sections 1–4, 6–7, and select the Word exercise as homework. Use the next meeting for group libraries, advanced search, and the capstone.
 
-### Troubleshooting checklist for the instructor
+# Troubleshooting checklist for the instructor
 
 - If the browser save icon is missing, check Chrome extensions and pin Zotero Connector.
 - If Zotero saves a webpage instead of a journal article, open the publisher's actual publication page and save again; otherwise use DOI.
@@ -745,7 +747,7 @@ The instructor demonstrates the complete workflow, then students repeat it on th
 
 ---
 
-## 12. Official Resources and Image Attribution
+# 12. Official Resources and Image Attribution
 
 - [Zotero Download + Connector](https://www.zotero.org/download/)
 - [Official Zotero Support and Documentation](https://www.zotero.org/support/)
