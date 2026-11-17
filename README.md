@@ -10,9 +10,9 @@ comment: Visual, hands-on Zotero training for university students. Includes illu
 
 ## Visual Student Training · Beginner to Advanced
 
-[Open the live LiaScript course](https://liascript.github.io/course/?https://github.com/Masub27/Zotero-Student-Training/README.md)
 
-> **Pictures:** The illustrated guides, actual screenshot callouts, and diagrams load directly from the public GitHub repository. The images folder is also included for offline reuse.
+
+
 
 ![From collecting research to writing and citing](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/36_research_workflow.png)
 
