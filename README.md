@@ -1,6 +1,6 @@
 <!--
 author: ITVET Academic Skills Training
-version: 1.1
+version: 1.2
 language: en
 narrator: US English Female
 comment: Visual, hands-on Zotero training for university students. Includes illustrated explanations and hands-on classroom demonstrations; no quizzes.
@@ -12,7 +12,7 @@ comment: Visual, hands-on Zotero training for university students. Includes illu
 
 [Open the live LiaScript course](https://liascript.github.io/course/?https://github.com/Masub27/Zotero-Student-Training/README.md)
 
-> **Pictures:** The 43 illustrated guides and screenshots load directly from the public GitHub repository. The images folder is also included for offline reuse.
+> **Pictures:** The illustrated guides, actual screenshot callouts, and diagrams load directly from the public GitHub repository. The images folder is also included for offline reuse.
 
 ![From collecting research to writing and citing](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/36_research_workflow.png)
 
@@ -85,6 +85,97 @@ Using Zotero offline does **not** require an account. Sign in when you want to s
 ---
 
 # 2. Navigating Zotero
+
+# 2.1 Every Zotero symbol: real screenshot walkthrough
+
+This is an annotated guide to the **Zotero interface in the supplied classroom screenshot**. Your version may look slightly different, but each symbol below has a specific role. Students should keep Zotero open as they follow along.
+
+**Key principle:** Zotero has three panels. The left organizes your research, the middle lists sources, and the right displays the details of the selected source. In this screenshot, **Master Thesis** contains one item and no item is currently selected, so its detail pane is empty.
+
+# 2.2 Left panel — all library icons
+
+![Every icon in the left Zotero navigation panel](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/interface_left_numbered.png)
+
+| No. | Exact symbol / label | What it does | Student demonstration |
+|:--:|---|---|---|
+| 1 | Folder with plus: **New Collection** | Creates a research collection (folder). | Create `Literature Review`. |
+| 2 | Magnifying glass above folders | Searches the collection list by name. | Find `Master Thesis`. |
+| 3 | University/library building: **My Library** | Shows all references stored in your personal library, including items in collections. | Click it and compare with the selected folder. |
+| 4 | Clock: **Recently Read** | Lists sources opened recently. | Read a PDF, then return to this view. |
+| 5 | Small `>`/`v` arrow next to collection | Expands or collapses its subcollections. | Add and reveal a subcollection. |
+| 6 | Blue folder: **Master Thesis** | The currently selected collection; clicking it shows its contents in the center. | Create a subcollection for methodology. |
+| 7 | Green page: **My Publications** | Holds records of works you authored or co-authored. | Explain why it differs from a literature collection. |
+| 8 | Overlapping orange pages: **Duplicate Items** | Finds likely duplicate references so they can be reviewed and merged. | Check before citing the same paper twice. |
+| 9 | Orange/red pages: **Unfiled Items** | Lists items in My Library not assigned to any collection. | File a source into Master Thesis. |
+| 10 | Trash can: **Bin** | Holds deleted references for recovery or permanent deletion. | Explain recovery versus permanent removal. |
+
+**Important:** A collection does not create a separate copy of the reference. The same reference can appear in more than one collection.
+
+# 2.3 Middle panel — adding and finding research
+
+![Every icon in the Zotero middle toolbar](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/interface_middle_numbered.png)
+
+| No. | Exact symbol / label | Purpose | Student demonstration |
+|:--:|---|---|---|
+| 11 | Paper with plus and dropdown: **New Item** | Manually creates a Book, Journal Article, Report or other bibliographic record. | Add a journal article and fill title/author/year. |
+| 12 | Magic wand: **Add Item(s) by Identifier** | Retrieves publication metadata from DOI, ISBN or other supported identifier. | Paste a valid DOI for an existing paper. |
+| 13 | Stacked page plus: **Add Attachment** | Attaches a local file, stored copy, linked file, or supported web link to a selected reference. | Attach a PDF to an article record. |
+| 14 | Note page with dropdown: **New Note** | Creates a note (standalone or attached to a source). | Write a two-sentence paper summary. |
+| 15 | Magnifying glass + `All Fields & Tags` | Searches references; dropdown changes search scope. | Search a paper by author. |
+| 16 | Funnel inside search box: **Advanced Search** | Applies several filter conditions, such as item type, tag or author. | Filter for journal articles with a selected tag. |
+| 17 | **Title** heading | Displays the title of each reference; click to change sort order. | Sort alphabetically. |
+| 18 | **Creator** heading | Displays authors/creators; click to sort by creator. | Sort by author surname. |
+| 19 | Small paperclip column heading | Indicates attachments associated with items. | Compare a source with and without attached PDF. |
+| 20 | Blue book icon on the item row | Indicates an item whose reference type is **Book**. | Click it to display its metadata on the right. |
+
+The small down arrows beside toolbar buttons open additional choices. The paperclip near the column headings is **not** the same control as Add Attachment: one is a list indicator and one is an action.
+
+# 2.4 Right panel — all reference-detail symbols
+
+![Every icon on the Zotero right-side navigation rail](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/interface_right_numbered.png)
+
+| No. | Symbol | Purpose | When students use it |
+|:--:|---|---|---|
+| 21 | Down chevron near the top right | Opens the Zotero tab list/menu. | Switch between open library and reader tabs. |
+| 22 | Circular arrows: **Sync** | Synchronizes library information with your Zotero account when configured. | Sync after saving a new paper. |
+| 23 | Split-panel rectangle | Controls the item-pane side navigation. | Show or hide the icon rail. |
+| 24 | Blue document + `i`: **Info** | Shows editable bibliographic metadata: item type, title, author, date, publication, DOI, etc. | Correct a missing publication year. |
+| 25 | Blue lines: **Abstract** | Shows the abstract of a selected article, when available. | Read the abstract before deciding relevance. |
+| 26 | Green paperclip: **Attachments** | Shows a reference's PDFs, links, files and previews. | Open an attached PDF. |
+| 27 | Yellow note: **Notes** | Displays and creates notes linked to a reference. | Add a research limitation. |
+| 28 | Library building + folder: **Libraries and Collections** | Shows where a reference is stored and which collections contain it. | Confirm a paper is in the methodology collection. |
+| 29 | Orange tag: **Tags** | Adds subject keywords and classification tags. | Add `quantitative`, `methodology`, or `read`. |
+| 30 | Chain: **Related** | Creates links between conceptually related references. | Connect two papers using different methods. |
+| 31 | Arrow/circle: **Locate** | Offers ways to locate the item, such as online or through library lookup where configured. | Find a source from its citation. |
+
+The right pane is blank in the screenshot because a collection, rather than an individual item, is selected. **Click the book icon in the center** to see Info, Abstract and other details.
+
+# 2.5 Bottom-left corner — tag controls
+
+![Tag area and controls in the original screenshot](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/interface_tags_numbered.png)
+
+| No. | Symbol / text | Purpose |
+|:--:|---|---|
+| 32 | **No tags to display** | The tag selector currently has no tags to show in this view. |
+| 33 | **Filter Tags** text field | Narrows the displayed tag list by text; clicking a tag filters items. |
+| 34 | Funnel + dropdown | Opens tag-selector filtering/display options. |
+
+At the bottom-right, **“1 item in this view”** means one Zotero item is visible in the current collection. It is a count, not an additional research tool.
+
+# 2.6 Suggested classroom live demonstration — no quiz
+
+1. Click **Master Thesis** and show the single reference.
+2. Click the **blue book icon**. Explain that the right-side **Info** section now shows the source's metadata.
+3. Open **Abstract**, **Attachments**, **Notes**, **Tags**, and **Related** one by one. Explain why each is useful for a literature review.
+4. Click **New Collection**, create `Research Methodology`, and return to the main collection.
+5. Click **New Item** to demonstrate a manual record, then demonstrate **Add Item(s) by Identifier** using a genuine DOI.
+6. Attach a PDF, add a note, assign two tags, and run an advanced search with the funnel icon.
+7. Show **Duplicate Items**, **Unfiled Items**, and **Bin**; explain which records appear there and why.
+8. Finally, click **Sync** and explain that PDF-file syncing depends on settings and available storage.
+
+**Instructor tip:** Have students hover over each icon to read Zotero's own tooltip. Some versions change the icon position while preserving the same function.
+
+---
 
 # 2.1 Real Zotero interface
 
@@ -761,6 +852,7 @@ The instructor demonstrates the complete workflow, then students repeat it on th
 - [Backup](https://www.zotero.org/support/zotero_data)
 - [LiaScript Documentation](https://liascript.github.io/)
 
-**Images:** All numbered `images/*.png` illustrations in this package were created specifically for this training. The `real_*.png` panels are cropped views of a Zotero screenshot supplied for the course; they depict a specific installation and may differ slightly from the student's interface. Zotero names and icons are used only to identify software functions. No third-party screenshots are silently presented as current Zotero interface images.
+**Images:** The numbered `images/*.png` illustrations in this package were created specifically for this training. The `real_*.png` panels are cropped views of a Zotero screenshot supplied for the course; they depict a specific installation and may differ slightly from the student's interface. Zotero names and icons are used only to identify software functions. No third-party screenshots are silently presented as current Zotero interface images.
 
 **Academic integrity:** Zotero formats citations, but **you** are responsible for source selection, correct claims, bibliographic accuracy, permission to use PDFs, and the final reference style. Optional AI tools may invent facts and must not replace source verification.
+
