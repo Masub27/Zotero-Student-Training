@@ -1,6 +1,6 @@
 <!--
 author: ITVET Academic Skills Training
-version: 1.2
+version: 2.0.0
 language: en
 narrator: US English Female
 comment: Visual, hands-on Zotero training for university students. Includes illustrated explanations and hands-on classroom demonstrations; no quizzes.
@@ -269,175 +269,139 @@ Collections organize references, not copies of files. **My Library** contains yo
 Use tags to represent **cross-cutting themes**, while collections represent project organization. Example tags: `To Read`, `Read`, `Method-Qualitative`, `Method-Quantitative`, `GCI`, `Limitations`, `Key Source`.
 
 **Practice:** add `Read` and `Method-Qualitative` to a source and locate it with the tag selector.
-
 ---
 
-# 4. Write an Assignment with Zotero — Complete Process
+# Slide 21 — Write an Assignment with Zotero: What Will We Do?
 
-![Zotero research-to-writing workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/36_research_workflow.png)
+![Zotero from finding research to writing an assignment](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/36_research_workflow.png)
 
-**Goal:** Use a research paper saved in Zotero to write a short paragraph in Microsoft Word, insert an in-text citation, and generate a properly formatted reference list.
+**Learning activity:** Create a short academic assignment in **Microsoft Word**, with correct **Zotero citations** and an **automatic reference list**.
 
-**What you need:** Zotero Desktop, Microsoft Word, and at least **two research papers** already saved as bibliographic items in Zotero.
+**Before starting, each student needs:**
 
-**Follow the order:** Check the Word add-in → read your paper and notes → choose APA 7 → cite a claim → add the bibliography → save your assignment.
+- Zotero Desktop installed.
+- Microsoft Word installed.
+- At least **two real research-paper records** saved in Zotero (preferably with PDFs).
+- A research topic, such as *AI in Vocational Education* or a topic of the student's choice.
 
-> **Important:** A PDF annotation or a Zotero note is not itself an academic citation. Cite the **parent research-paper record** with complete author, title, date, and publication details.
+**Our 5-step workflow:**
 
-# Step 1 — Connect Zotero to Microsoft Word
+1. Connect Zotero with Word.
+2. Write a paragraph based on your saved research papers.
+3. Add in-text citations using Zotero.
+4. Create the APA 7 reference list automatically.
+5. Save the finished Word assignment.
 
-![Word Zotero add-in and its tools](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/24_word_setup.png)
+**Teacher demonstration:** Open Zotero and Word side by side. Show how a paper in the Zotero collection becomes a citation and full reference in Word.
 
-**On the student's laptop:**
+# Slide 22 — Step 1: Connect Zotero with Microsoft Word
 
-1. Open **Zotero Desktop**, then open a new document in **Microsoft Word**.
-2. Look for the **Zotero** tab in Word's top toolbar.
-3. If it is missing, return to Zotero:
+![Zotero plugin in Microsoft Word](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/24_word_setup.png)
+
+1. Open **Zotero Desktop**.
+2. Open **Microsoft Word** and create a blank document.
+3. Check whether the **Zotero** tab appears in Word's toolbar.
+4. If the tab is missing, go back to Zotero:
    - **Mac:** \`Zotero → Settings → Cite → Word Processors\`.
    - **Windows:** \`Edit → Settings → Cite → Word Processors\`.
-4. Click **Install Microsoft Word Add-in** (or reinstall it, if offered).
-5. Close and reopen Microsoft Word. Keep Zotero running while inserting citations.
+5. Click **Install Microsoft Word Add-in** or **Reinstall Microsoft Word Add-in**.
+6. Close and reopen Word.
 
-| Word toolbar button | What it does |
+| Zotero button in Word | Function |
 |---|---|
-| **Add/Edit Citation** | Insert or change an in-text citation |
-| **Add/Edit Bibliography** | Create a reference list from cited papers |
-| **Document Preferences** | Select APA 7 or another required citation style |
-| **Refresh** | Update citations and references after metadata changes |
+| **Add/Edit Citation** | Insert a citation after a statement |
+| **Add/Edit Bibliography** | Generate the complete references for papers cited in Word |
+| **Document Preferences** | Select APA 7 or another required style |
+| **Refresh** | Update citations and references |
 
-**Check:** Your Word ribbon now contains the **Zotero** tab.
+**Student action:** Find and click the **Zotero** tab in your Word document.
 
-# Step 2 — Open the PDF, Read Notes, and Prepare a Paragraph
+# Slide 23 — Step 2: Write and Insert In-Text Citations
 
-![Zotero PDF notes and annotation workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/22_notes.png)
+![Insert an in-text citation through Zotero in Word](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/25_word_citation.png)
 
-1. In Zotero, select your research collection, for example **Master Thesis → Local LLMs and Offline AI**.
-2. Click the small triangle beside the **paper's title**, if necessary, to reveal its PDF attachment.
-3. **Double-click the PDF attachment**. Opening in a **new Zotero tab is normal**.
-4. Highlight a useful claim, or select a diagram/table using the **area-selection tool**.
-5. Add your own comment to the annotation. Use the **Notes** pane to add important annotations to an item note.
-6. In Microsoft Word, write **your own explanation** of what the source says.
+**Example activity:**
 
-**Example — paragraph to write in Word (illustrative, not a finding from a verified source):**
+1. In Word, type the title: **The Role of AI in Vocational Education**.
+2. Write a short paragraph **in your own words** based on a paper you read.
+3. Put the text cursor **at the end of the statement** you want to support.
+4. Click **Zotero → Add/Edit Citation**.
+5. Search by the paper's **title** or the author's **surname**.
+6. Select the **parent article/book record** (not its PDF attachment) and press **Enter/Return** to insert the citation.
+7. Repeat these steps when using information from your second paper.
 
-> Offline language models may be helpful when an institution has limited internet connectivity. Researchers nevertheless need to evaluate their accuracy, resource requirements, and privacy implications.
+**Illustrative sentence (do not treat this as a verified research finding):**
 
-Next, cite the actual paper that supports the claim. **Do not cite this example unless your selected paper really provides that evidence.**
+> Digital tools may support flexible learning in vocational education (Author, 2025).
 
-**For an area-selected PDF figure:** If you include an image in Word, insert the image separately, give it a figure caption, and cite its original source. A PDF-area annotation does not automatically insert a figure into Word.
+Zotero will replace the example with the **correct author and publication year** from the actual source you selected.
 
-# Step 3 — Check the Source and Select APA 7th Edition
+**Key rule:** A copied PDF highlight or personal Zotero note is **not a citation**. Insert an actual citation through Word's Zotero toolbar.
 
-![Word Document Preferences: citation styles](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/28_document_preferences.png)
+# Slide 24 — Step 3: Choose APA 7 and Add Page Numbers
 
-**Before citing, check the bibliographic record in Zotero:**
+![APA 7 citation style in Word Document Preferences](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/28_document_preferences.png)
 
-1. Click the **parent paper** (not its PDF attachment).
-2. In its **Info** pane, inspect **Title, Authors, Date, Item Type, Publication, DOI**, and URL where relevant.
-3. Correct any missing or incorrect metadata. A citation can only be as accurate as this record.
-4. In Word, click **Zotero → Document Preferences**.
-5. Choose **American Psychological Association (APA), 7th edition**, then confirm.
+1. In Word, click **Zotero → Document Preferences**.
+2. Choose **American Psychological Association (APA), 7th edition**.
+3. Confirm the selection. Zotero will format your citations in APA 7.
+4. Check the Zotero parent record's **author, year, title, journal, and DOI/URL**. Fix missing information in Zotero before finalizing.
 
-**Academic check:** An arXiv preprint is **not automatically peer-reviewed**. Make sure its Zotero item type and publication information reflect the actual source.
+![Page numbers in the Zotero citation dialog](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/26_page_numbers.png)
 
-**Check:** Your Word document is set to APA 7 for both in-text citations and the reference list.
+**If you quote exact words from a PDF:**
 
-# Step 4 — Insert Your First In-Text Citation
+1. Put the copied words in quotation marks.
+2. Insert or edit the Zotero citation.
+3. Click the selected citation item in the citation dialog.
+4. Enter the **real page number** in the **Page** field.
+5. Confirm; an APA quotation citation can look like \`(Author, 2025, p. 12)\`.
 
-![Word Zotero Add/Edit Citation](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/25_word_citation.png)
+**Student action:** Set APA 7 and check whether your in-text citations are correctly formatted.
 
-1. In Word, put the cursor **after the sentence** based on the research paper, before the sentence-ending punctuation when using a typical APA parenthetical citation.
-2. Click **Zotero → Add/Edit Citation**.
-3. In the Zotero search bar, type the **author's surname** or part of the **paper title**.
-4. Choose the correct **parent bibliographic item** from the results.
-5. Press **Enter/Return** to confirm the selection; press it again if required to insert the citation.
-6. Continue writing the next sentence and repeat the procedure for a second paper.
+# Slide 25 — Step 4: Generate References/Bibliography Automatically
 
-**Illustrative example:**
+![Add/Edit Bibliography in Microsoft Word](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/27_bibliography.png)
 
-> Different language-model architectures can be evaluated for text classification (Author, 2025).
-
-The citation will display the **actual author and year** of the Zotero item you selected. Never type a made-up author or year.
-
-**Check:** Click the inserted citation in Word and use **Add/Edit Citation**. If Zotero can edit it, it is a **live Zotero citation**.
-
-# Step 5 — Add Page Numbers for Direct Quotations
-
-![Zotero citation page number and multiple sources](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/26_page_numbers.png)
-
-**When quoting exact wording:**
-
-1. Put quotation marks around the words you copied from the article.
-2. Insert a citation through **Add/Edit Citation**.
-3. In the citation dialog, click the **selected source bubble** to open its options.
-4. Enter the exact **page number** in the **Page** locator field (for example, \`12\`).
-5. Confirm the citation and inspect the result in Word.
-
-**Example format for a quotation:** \`(Author, 2025, p. 12)\` — replace with the genuine author, year, and page number.
-
-| Your writing | What to do |
-|---|---|
-| Paraphrase a finding | Explain it in your own words and cite the source |
-| Quote the exact sentence | Use quotation marks and cite the specific page/locator |
-| Compare two studies | Add both relevant sources to the same citation when appropriate |
-
-**Check:** The page is the actual page in the source, not an invented number.
-
-# Step 6 — Generate the References List Automatically
-
-![Create automatic bibliography in Word](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/27_bibliography.png)
-
-1. Go to the **end of your Word assignment**.
-2. Type the heading **References**.
-3. Place your cursor on the **blank line below the heading**.
+1. Go to the **last page of your Word assignment**.
+2. Add the heading **References**.
+3. Place your cursor on a blank line beneath the heading.
 4. Click **Zotero → Add/Edit Bibliography**.
-5. Zotero inserts the references for the **sources cited in this Word document**.
-6. Review each entry for accurate authors, title, year, journal/preprint details, DOI, and APA 7 formatting.
-7. After adding or correcting citations, click **Zotero → Refresh**.
+5. Zotero creates the **APA 7 reference entries** for the papers you cited in this Word document.
+6. Check the names, dates, titles, publication details, and DOI/URL.
+7. If you correct metadata in Zotero or add another citation, return to Word and click **Refresh**.
 
-![Refresh Zotero citations and bibliography](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/29_refresh.png)
+![Refresh citations and references](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/29_refresh.png)
 
-**Very important:** **Add/Edit Bibliography** does **not** list every paper in your Zotero library. It lists papers cited in **this Word document** (unless you deliberately change the list through Zotero's bibliography editor).
+**Remember the difference:**
 
-**Do not manually edit a Zotero-generated reference** to correct a source. Correct the bibliographic **record in Zotero**, then click **Refresh** in Word.
+- **In-text citation:** A short source acknowledgment in your paragraph, such as \`(Author, 2025)\`.
+- **Reference:** The full source details in the **References** section.
 
-# Step 7 — Make a Separate Bibliography File from Your Collection
+**Important:** Word's automatic Zotero bibliography includes the sources **cited in your Word document**, not every paper in Zotero.
 
-![Standalone bibliography export from Zotero](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/31_quick_copy.png)
+# Slide 26 — Final Activity: Submit a Word Assignment with Zotero Citations
 
-Use this method when an instructor asks for **a reference-list file** rather than a full written assignment.
+![From research papers to an academic assignment](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/36_research_workflow.png)
 
-1. In **Zotero Desktop**, click the **collection** containing your research papers.
-2. Select the **parent reference items** you want to include. Use \`⌘ + A\` on Mac or \`Ctrl + A\` on Windows if selecting all applicable items in the item list.
-3. **Right-click** the selected reference items.
-4. Choose **Create Bibliography from Items…**
-5. Select **APA 7th edition** and choose **Bibliography** (not Citations/Notes).
-6. Choose **Save as RTF** to create a file, or **Copy to Clipboard** to paste the list into Word.
-7. Open the bibliography, check the metadata, and save/submit it in the required format.
+**Students: Do this practical task in class. No quiz.**
 
-**Difference to remember:**
+1. Create a Word document named \`Zotero_Assignment.docx\`.
+2. Add your own academic topic as a heading.
+3. Select **two papers** already saved in your Zotero collection.
+4. Write **100–150 words in your own words**, using findings from both papers.
+5. Insert **at least two Zotero citations** using **Add/Edit Citation**.
+6. Use **APA 7th edition** in **Document Preferences**.
+7. Add a **References** heading at the end of the Word document.
+8. Click **Add/Edit Bibliography** to generate the complete references.
+9. Click **Refresh** and check the accuracy of both citations and references.
+10. Save the document. Show the instructor the two live citations and the automatically generated reference list.
 
-- **Word → Add/Edit Bibliography:** References for sources actually **cited in that Word assignment**.
-- **Zotero → Create Bibliography from Items:** References for **selected research-library items**, whether cited in Word or not.
+**Expected result in Word:**
 
-# Final Practical Activity — Submit a Zotero-Cited Word Assignment
+- **Assignment paragraph:** Your original writing, with two citations.
+- **References section:** Two correctly formatted APA 7 entries created by Zotero.
+- **File to submit:** \`Zotero_Assignment.docx\`.
 
-![Complete Zotero research and assignment workflow](https://raw.githubusercontent.com/Masub27/Zotero-Student-Training/main/images/36_research_workflow.png)
-
-**Students complete the following in class; no quiz is required.**
-
-1. Open a new Word document named \`Zotero_Assignment_Practice.docx\`.
-2. Add a heading such as **Comparing Two Research Studies**.
-3. In Zotero, choose **two real academic papers** relevant to your research topic.
-4. Read each PDF and use your **highlights or notes** to understand one key finding.
-5. Write **one original paragraph (100–150 words)** comparing the two studies.
-6. Use **Zotero → Add/Edit Citation** to insert at least **two correct in-text citations**.
-7. Where you use a direct quotation, insert its **real page number**.
-8. Use **Zotero → Document Preferences** to set **APA 7th edition**.
-9. At the end of Word, add **References** using **Add/Edit Bibliography**.
-10. Click **Refresh**, check the references, and save the finished Word file.
-
-**Instructor demonstration:** Ask each student to show (a) the Zotero tab in Word, (b) a live citation, and (c) the generated References list. If a separate bibliography file is required by the assignment, also export it as **RTF** from Zotero.
-
-**Useful official guides:** [Zotero Word Plugin](https://www.zotero.org/support/word_processor_plugin_usage) · [Creating Bibliographies](https://www.zotero.org/support/creating_bibliographies) · [PDF Reader and Notes](https://www.zotero.org/support/pdf_reader)
+**Official help:** [Using Zotero with Microsoft Word](https://www.zotero.org/support/word_processor_plugin_usage) · [Creating bibliographies](https://www.zotero.org/support/creating_bibliographies)
 
